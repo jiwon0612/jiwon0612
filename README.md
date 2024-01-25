@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=I_like_crople&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&animation=twinkling&color=0:EEFF00,100:a82da8&text=크로플을_아시나요)
 
 #Welcome to my github repository
 
