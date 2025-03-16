@@ -2,7 +2,7 @@
 
 >저는 크로플이 좋아요
 
-<a href="https://www.instagram.com/jiweon1118?igsh=MWFiN2NqbjA5MGVjMw%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-색코드?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ji_0612_won?igsh=MWFiN2NqbjA5MGVjMw%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-색코드?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 https://i.esdrop.com/d/f/45cIf00VFy/UaXxGvWmut.jpg
 
